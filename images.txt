@@ -1,1 +1,1 @@
-mysql
+provectuslabs/kafka-ui
