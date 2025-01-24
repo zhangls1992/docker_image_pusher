@@ -1,1 +1,1 @@
-leantime/leantime
+alpine:latest
