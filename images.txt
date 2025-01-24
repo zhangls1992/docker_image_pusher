@@ -1,1 +1,1 @@
-alpine:latest
+redis:latest
