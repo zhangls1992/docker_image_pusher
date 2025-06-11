@@ -1,1 +1,1 @@
-corentinth/it-tools:latest
+auto-proxy-pool:latest
