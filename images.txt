@@ -1,1 +1,1 @@
-kspeeder:latest
+linkease/kspeeder:latest
