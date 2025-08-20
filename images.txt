@@ -1,1 +1,1 @@
-auto-proxy-pool:latest
+kspeeder:latest
