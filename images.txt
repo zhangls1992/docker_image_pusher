@@ -1,1 +1,1 @@
-linkease/kspeeder:latest
+--platform linux/arm64 louislam/uptime-kuma:latest
