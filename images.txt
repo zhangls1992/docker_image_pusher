@@ -1,1 +1,1 @@
---platform linux/arm64 louislam/uptime-kuma:latest
+--platform linux/arm64 mysql:8.4.5
