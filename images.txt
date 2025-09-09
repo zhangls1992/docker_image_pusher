@@ -1,1 +1,1 @@
---platform dataease/dataease:v2.10.12
+sun-panel:latest
