@@ -1,1 +1,1 @@
---platform linux/arm64 mysql:8.4.5
+--platform dataease/dataease:v2.10.12
