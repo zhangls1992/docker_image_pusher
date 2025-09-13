@@ -1,2 +1,3 @@
 xhofe/alist:v3
-seafileltd/seafile-mc:11.0-latest
+seafileltd/seafile-mc:11.0
+memcached:1.6-alpine
