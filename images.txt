@@ -1,1 +1,1 @@
-seafileltd/seafile-mc:latest
+seafileltd/seafile-mc:12.0
