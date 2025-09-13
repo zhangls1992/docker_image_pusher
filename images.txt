@@ -1,1 +1,1 @@
-seafileltd/seafile-mc:12.0
+memcached:1.6-alpine
