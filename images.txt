@@ -1,1 +1,1 @@
-memcached:1.6-alpine
+seafileltd/seafile-docs:latest
