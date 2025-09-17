@@ -1,1 +1,1 @@
-seafileltd/seafile-docs:latest
+library/nextcloud:latest
